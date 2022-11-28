@@ -37,9 +37,9 @@ ABOUT_TEXT = """
 **My Details:**
 🤖 Name: {}
     
-📝 Language: [Python 3](https://www.python.org/)
-🧰 Framework: [Pyrogram](https://github.com/pyrogram/pyrogram)
-👨‍💻 Developer: [Dev](t.me/ask_admin001)
-📢 Support: [Talk Bot](https://t.me/t2linkspromotion_bot)
-🌐 Source Code: [GitHub](https://github.com/T2links)
+📝 Language: [Python 3](https://t.me/allnewmovieintime)
+🧰 Framework: [Pyrogram](https://t.me/allnewmovieintime)
+👨‍💻 Developer: [Dev](t.me/king072326)
+📢 Support: [Talk Bot](https://t.me/allbotscollections)
+🌐 Source Code: [GitHub](https://t.me/allbotscollections)
 """
